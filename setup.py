@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 with open("README.md", "r") as rd:
-  long_description = rd.read()
+#   long_description = rd.read()
  
 setup(
   name='pybraille',
